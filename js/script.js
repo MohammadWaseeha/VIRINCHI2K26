@@ -100,7 +100,13 @@ const technicalEvents = {
             description: "A visual presentation event where participants showcase research or project ideas using concise text, charts, and images, evaluated on clarity, content, and presentation.",
             time: "16<sup>th</sup> March 2026, 02:00 PM - 03:00 PM",
             venue: "MV-103",
-            participation: "2 Members"
+            participation: "2 Members",
+            themes: [
+                "Green Hydrogen as Future Fuel",
+                "Battery Management Systems in EVs.",
+                "Artificial Intelligence in Power System Fault Detection",
+                "Floating Solar Power Plants"
+            ]
         },
         {
             name: "Rush to Seat",
