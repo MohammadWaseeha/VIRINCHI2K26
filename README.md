@@ -1,6 +1,4 @@
-# VIRINCHI2K26
-
-# VIRINCHI 2K26 – Event Website
+# VIRINCHI2K26 – Event Website
 
 VIRINCHI 2K26 is a responsive university fest website built to showcase technical and cultural events across multiple departments. The platform features dynamic event rendering, interactive flip cards, expandable event themes, and a modern UI design optimized for all devices.
 
