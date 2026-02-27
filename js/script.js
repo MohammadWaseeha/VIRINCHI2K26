@@ -6,7 +6,7 @@ const technicalEvents = {
             description: "Candidates have to present the given theme in the form of poster (Chart) using paints/ crayons/sketches/paper crafts etc... <br><b>Theme: 6G & Hyperconnected Societies</b>.",
             time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
             venue: "MV-306 (Drawing Hall)",
-            participation: "2 Members",
+            participation: "Team of 2",
             themes: [
                 "6G & Hyperconnected Societies"
             ]
@@ -42,7 +42,7 @@ const technicalEvents = {
             description: "A technical concept will be given to one team member by the organizers, who must enact it without words. The rest of the team gets 1 minute to identify the concept correctly.",
             time: "16<sup>th</sup> March 2026, 11:00 AM - 12:00 PM",
             venue: "MV-200, MV-201",
-            participation: "4 Members"
+            participation: "Team of 4"
         }
     ],
 
@@ -53,7 +53,7 @@ const technicalEvents = {
             description: "A platform for students to present innovative ideas on emerging technologies through well-structured and research-oriented posters.",
             time: "16<sup>th</sup> March 2026, 11:00 AM - 12:00 PM",
             venue: "MV-306 (Drawing Hall)",
-            participation: "2 Members",
+            participation: "Team of 2",
             themes: [
                 "New Innovation Ideas",
                 "Trending Technologies(like AI, VLSI, Embedded Systems etc...)"
@@ -73,7 +73,7 @@ const technicalEvents = {
             description: "An interactive technical game inspired by Snakes and Ladders, where progress depends on answering subject-based questions correctly.",
             time: "16<sup>th</sup> March 2026, 01:00 PM - 02:00 PM",
             venue: "MV-104",
-            participation: "2 Members"
+            participation: "Team of 2"
         },
         {
             name: "Treasure Hunt",
@@ -100,7 +100,7 @@ const technicalEvents = {
             description: "A visual presentation event where participants showcase research or project ideas using concise text, charts, and images, evaluated on clarity, content, and presentation.",
             time: "16<sup>th</sup> March 2026, 02:00 PM - 03:00 PM",
             venue: "MV-103",
-            participation: "2 Members",
+            participation: "Team of 2",
             themes: [
                 "Green Hydrogen as Future Fuel",
                 "Battery Management Systems in EVs.",
@@ -122,7 +122,7 @@ const technicalEvents = {
             description: "A two-member team event where one participant enacts an electrical term silently while the other guesses within one minute, earning points for each correct answer.",
             time: "16<sup>th</sup> March 2026, 12:00 PM - 01:00 PM",
             venue: "MV-101",
-            participation: "2 Members"
+            participation: "Team of 2"
         },
         {
             name: "Path to Power",
@@ -149,7 +149,7 @@ const technicalEvents = {
             description: "A poster presentation is a visual method of presenting research or project ideas using images,charts, and brief text.",
             time: "16<sup>th</sup> March 2026, 02:00 PM - 02:45 PM",
             venue: "CV-204",
-            participation: "2 Members",
+            participation: "Team of 2",
             themes: [
                 "Sustainable Energy Systems",
                 "Robotics & Automation",
@@ -174,7 +174,7 @@ const technicalEvents = {
             description: "Brain Battle is an exciting intellectual competition where participants test their knowledge, logic, and quick thinking skills.",
             time: "16<sup>th</sup> March 2026, 10:00 AM - 12:00 PM",
             venue: "MV-309",
-            participation: "2 Members"
+            participation: "Team of 2"
         },
         {
             name: "Grind your Mind",
