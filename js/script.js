@@ -6,7 +6,7 @@ const technicalEvents = {
             description: "Candidates have to present the given theme in the form of poster (Chart) using paints/ crayons/sketches/paper crafts etc... <br><b>Theme: 6G & Hyperconnected Societies</b>.",
             time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
             venue: "MV-306 (Drawing Hall)",
-            participation: "Min. 2, Max. 4",
+            participation: "2 Members",
             themes: [
                 "6G & Hyperconnected Societies"
             ]
@@ -42,7 +42,7 @@ const technicalEvents = {
             description: "A technical concept will be given to one team member by the organizers, who must enact it without words. The rest of the team gets 1 minute to identify the concept correctly.",
             time: "16<sup>th</sup> March 2026, 11:00 AM - 12:00 PM",
             venue: "MV-200, MV-201",
-            participation: "Min. 4 Members"
+            participation: "4 Members"
         }
     ],
 
