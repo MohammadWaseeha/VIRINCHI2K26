@@ -6,7 +6,7 @@ const technicalEvents = {
             description: "Candidates have to present the given theme in the form of poster (Chart) using paints/ crayons/sketches/paper crafts etc... <br><b>Theme: 6G & Hyperconnected Societies</b>.",
             time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
             venue: "MV-306 (Drawing Hall)",
-            participation: "Team of 2",
+            participation: "Max. 4 members per team",
             themes: [
                 "6G & Hyperconnected Societies"
             ]
