@@ -229,7 +229,7 @@ const culturalEvents = [
         description: "A musical event with Solo, Duet, and Group (4 members) categories, judged on pitch, rhythm, expression, coordination, and overall performance.",
         time: "17<sup>th</sup> March 2026, 09:00 AM - 11:00 AM",
         venue: "Indira Priyadarshini Auditorium",
-        participation: "Solo, Duet, or Group (4 members)"
+        participation: "Solo, Duet, or Group (3 members)"
     },
     {
         name: "HastaAlankriti",
