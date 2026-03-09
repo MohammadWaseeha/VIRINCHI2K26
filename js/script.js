@@ -97,9 +97,9 @@ const technicalEvents = {
         {
             name: "Poster Presentation",
             gif: "poster.gif",
-            description: "A visual presentation event where participants showcase research or project ideas using concise text, charts, and images, evaluated on clarity, content, and presentation.",
-            time: "16<sup>th</sup> March 2026, 02:00 PM - 03:00 PM",
-            venue: "MV-103",
+            description: "A poster presentation is a visual method of presenting research or project ideas using images, charts, and brief text.",
+            time: "16<sup>th</sup> March 2026, 10:30 AM - 11:30 AM",
+            venue: "MV-101",
             participation: "Team of 2",
             themes: [
                 "Green Hydrogen as Future Fuel",
@@ -111,33 +111,33 @@ const technicalEvents = {
         {
             name: "Rush to Seat",
             gif: "rushtoseat.gif",
-            description: "A multi-round competition beginning with a written test, followed by technical musical chair rounds and a final quiz, with overall performance determining the Winner and Runner-up.",
-            time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
-            venue: "MV-103",
+            description: "Round 1: 20 written questions; top scorers qualify.<br>Rounds 2 & 3: Musical Chairs with technical questions followed by a 10-question final—performance decides Winner and Runner-up.",
+            time: "16<sup>th</sup> March 2026, 11:30 AM - 01:00 PM",
+            venue: "Dhrithi Hall",
             participation: "Individual"
         },
         {
             name: "Shock & Act",
             gif: "s&a.gif",
-            description: "A two-member team event where one participant enacts an electrical term silently while the other guesses within one minute, earning points for each correct answer.",
-            time: "16<sup>th</sup> March 2026, 12:00 PM - 01:00 PM",
-            venue: "MV-101",
+            description: "Teams of two: one acts an electrical term silently, the other guesses.<br>1 minute, 1 point per correct guess—highest score wins. ⚡",
+            time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
+            venue: "MV-100",
             participation: "Team of 2"
         },
         {
             name: "Path to Power",
             gif: "pathtopower.gif",
-            description: "An exciting technical challenge where participants follow designated hand and foot paths while accurately connecting a circuit within the given time, testing balance, speed, and precision.",
+            description: "An electrifying challenge where participants follow hand ✋🏻 and leg 👣 prints with perfect balance and speed while correctly connecting the given circuit within the allotted time. ⚡",
             time: "16<sup>th</sup> March 2026, 04:00 PM - 05:00 PM",
-            venue: "MV-102",
+            venue: "CV-101",
             participation: "Individual"
         },
         {
             name: "Balloon Bonanza",
             gif: "balloonbonanza.gif",
-            description: "A two-round competition where participants first answer 25 questions to qualify, followed by a rapid round of bursting balloons, answering questions, and forming words—fastest and most accurate wins.",
-            time: "16<sup>th</sup> March 2026, 10:30 AM - 12:00 PM",
-            venue: "CV-101",
+            description: "🥇 Round 1: Answer 30 questions; top scorers qualify.<br>🎯 Round 2: Blast, answer, form the word—fastest wins.",
+            time: "16<sup>th</sup> March 2026, 02:00 PM - 03:30 PM",
+            venue: "Dhrithi Hall",
             participation: "Team of 3"
         }
     ],
