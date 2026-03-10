@@ -219,7 +219,7 @@ const culturalEvents = [
         name: "Natyakala",
         gif: "natyakala.gif",
         description: "Step onto the stage and bring your passion to life by performing in the dance style of your choice—Classical, Western, or Folk. Showcase your grace, energy, and expressions as you captivate the audience with your performance.",
-        time: "18<sup>th</sup> March 2026, 09:00 AM - 11:00 AM",
+        time: "17<sup>th</sup> March 2026, 02:00 PM - 04:00 PM",
         venue: "Indira Priyadarshini Auditorium",
         participation: "Solo, Duet, or Group (5 members)"
     },
@@ -251,7 +251,7 @@ const culturalEvents = [
         name: "Waste to Wonder",
         gif: "wastetowonder.gif",
         description: "A creative competition transforming waste materials into innovative and useful creations, judged on originality, sustainability, and presentation.",
-        time: "18<sup>th</sup> March 2026, 11:00 AM - 12:00 PM",
+        time: "18<sup>th</sup> March 2026, 09:00 AM - 10:00 AM",
         venue: "Outdoors of Engineering Block",
         participation:"Individual"
     },
@@ -259,7 +259,7 @@ const culturalEvents = [
       name:"Ethnic Aura", 
       gif:"ethnicaura.gif", 
       description:"A cultural event celebrating traditional attire, evaluated on authenticity, confidence, creativity, and overall impact, with one Winner and one Runner-up.", 
-      time:"18<sup>th</sup> March 2026, 11:00 AM - 01:00 PM", 
+      time:"18<sup>th</sup> March 2026, 10:00 AM - 12:00 PM", 
       venue:"Indira Priyadarshini Auditorium", 
       participation:"Individual"
     },
@@ -267,7 +267,7 @@ const culturalEvents = [
       name:"Riddles & Proverbs", 
       gif:"riddles&proverbs.gif", 
       description:"A team event for four members testing wit and cultural knowledge through riddles and proverbs, awarding a Group Winner and Group Runner-up.", 
-      time:"17<sup>th</sup> March 2026, 09:00 AM - 11:00 AM", 
+      time:"18<sup>th</sup> March 2026, 10:00 AM - 12:00 PM", 
       venue:"Drithi Hall, KL Rao Block", 
       participation:"Team of 4"
     },
@@ -283,7 +283,7 @@ const culturalEvents = [
       name:"Freeze the Frame", 
       gif:"freezetheframe.gif", 
       description:"A theme will be given on the spot, and participants must capture a photograph that best represents it. The most creative and theme-appropriate shot will be declared the winner.", 
-      time:"18<sup>th</sup> March 2026, 10:00 AM - 11:00 AM", 
+      time:"18<sup>th</sup> March 2026, 09:00 AM - 10:00 AM", 
       venue:"KL-201", 
       participation:"Individual"
     },
@@ -291,7 +291,7 @@ const culturalEvents = [
       name:"Soap Chiseling", 
       gif:"foamtoform.gif", 
       description:"Soap Chiseling is a creative soap art competition where participants carve and shape beautiful designs from soap.", 
-      time:"18<sup>th</sup> March 2026, 12:00 PM - 01:00 PM", 
+      time:"17<sup>th</sup> March 2026, 03:00 PM - 04:00 PM", 
       venue:"CV-101",  
        participation :"Individual"
    },
@@ -299,7 +299,7 @@ const culturalEvents = [
      name :"Path Finders" ,  
      gif :"pathfinders.gif" ,  
      description :"Kickstart the hunt with the first clue and unravel a series of consecutive hints that guide you toward the hidden treasure. Analyze, navigate, and outpace others to reach the final destination." ,  
-     time :"17<sup>th</sup> March 2026, 03:00 PM - 05:00 PM",  
+     time :"17<sup>th</sup> March 2026, 09:00 AM - 11:00 AM",  
      venue :"Outdoors of Engineering Block" ,  
      participation :"Team of 4"  
    }
