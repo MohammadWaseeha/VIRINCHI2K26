@@ -98,7 +98,7 @@ const technicalEvents = {
             name: "Poster Presentation",
             gif: "poster.gif",
             description: "A poster presentation is a visual method of presenting research or project ideas using images, charts, and brief text.",
-            time: "16<sup>th</sup> March 2026, 10:30 AM - 11:30 AM",
+            time: "16<sup>th</sup> March 2026, 11:00 AM - 12:00 PM",
             venue: "MV-101",
             participation: "Team of 2",
             themes: [
@@ -112,7 +112,7 @@ const technicalEvents = {
             name: "Rush to Seat",
             gif: "rushtoseat.gif",
             description: "Round 1: 20 written questions; top scorers qualify.<br>Rounds 2 & 3: Musical Chairs with technical questions followed by a 10-question final—performance decides Winner and Runner-up.",
-            time: "16<sup>th</sup> March 2026, 11:30 AM - 01:00 PM",
+            time: "16<sup>th</sup> March 2026, 12:00 PM - 01:00 PM",
             venue: "Dhrithi Hall",
             participation: "Individual"
         },
@@ -120,7 +120,7 @@ const technicalEvents = {
             name: "Shock & Act",
             gif: "s&a.gif",
             description: "Teams of two: one acts an electrical term silently, the other guesses.<br>1 minute, 1 point per correct guess—highest score wins. ⚡",
-            time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
+            time: "16<sup>th</sup> March 2026, 04:00 PM - 05:00 PM",
             venue: "MV-100",
             participation: "Team of 2"
         },
@@ -128,7 +128,7 @@ const technicalEvents = {
             name: "Path to Power",
             gif: "pathtopower.gif",
             description: "An electrifying challenge where participants follow hand ✋🏻 and leg 👣 prints with perfect balance and speed while correctly connecting the given circuit within the allotted time. ⚡",
-            time: "16<sup>th</sup> March 2026, 04:00 PM - 05:00 PM",
+            time: "16<sup>th</sup> March 2026, 03:00 PM - 04:00 PM",
             venue: "CV-101",
             participation: "Individual"
         },
@@ -172,7 +172,7 @@ const technicalEvents = {
             name: "Brain Battle",
             gif: "brainbattle.gif",
             description: "Brain Battle is an exciting intellectual competition where participants test their knowledge, logic, and quick thinking skills.",
-            time: "16<sup>th</sup> March 2026, 10:00 AM - 12:00 PM",
+            time: "16<sup>th</sup> March 2026, 11:00 AM - 12:00 PM",
             venue: "MV-309",
             participation: "Team of 2"
         },
